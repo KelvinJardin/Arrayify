@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kelvinjardin.arrayify.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kelvinjardin.arrayify.MyBundle
 
 class MyApplicationService {
 
